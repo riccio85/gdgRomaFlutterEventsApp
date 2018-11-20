@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "477530945956",
+    "firebase_url": "https://gdgroma-9c2fa.firebaseio.com",
+    "project_id": "gdgroma-9c2fa",
+    "storage_bucket": "gdgroma-9c2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477530945956:android:25ffd08d95cba55f",
+        "android_client_info": {
+          "package_name": "com.gdgromaflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477530945956-mi5ef0rk7h58h84d63o4gjbok4g6soth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwDdR9Q3w4wG_NS4r9etB2UFJI5uRn1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
