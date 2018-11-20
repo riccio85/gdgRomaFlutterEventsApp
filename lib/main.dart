@@ -24,7 +24,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return new SplashScreen(
-        seconds: 15,
+        seconds: 10,
         navigateAfterSeconds: new AfterSplash(),
         image: new Image.asset(
           'images/GDG_Roma_logo.png',
